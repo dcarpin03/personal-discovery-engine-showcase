@@ -1,0 +1,13 @@
+{
+  "title": "New advances in artificial intelligence for medical diagnosis",
+  "source_name": "Example Tech News",
+  "age_hours": 6.4,
+  "description_length": 98,
+  "topics": [
+    "artificial intelligence",
+    "medicine"
+  ],
+  "relevance_score": 0.87,
+  "recommendation": "high",
+  "explanation": "The article matches the user's interests in artificial intelligence and medicine."
+}
